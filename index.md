@@ -47,7 +47,7 @@ Lab Manager & Research Technician, [Zhang Lab](https://www.thezhanglab.com/) (Un
   * LaTeX
   * UNIX
 * Projects:
-  * To be uploaded.
+  * To be uploaded
 
 ### Other:
 
@@ -73,13 +73,13 @@ Lab Manager & Research Technician, [Zhang Lab](https://www.thezhanglab.com/) (Un
 
 * [Study Paves Way to Better Identify and Treat Important Pathogen.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Study_Paves_Way_to_Better_Identify_and_Treat_Important_Pathogen) (University of Guelph, 2019-07-25)
 
-* [Study Shows How Agrochemicals Can Increase Risk of Parkinson’s Disease.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Study-Shows-How-Agrochemicals-Can-Increase-Risk-of-Parkinsons-Disease) (University of Guelph, 22019-03-29)
+* [Study Shows How Agrochemicals Can Increase Risk of Parkinson’s Disease.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Study-Shows-How-Agrochemicals-Can-Increase-Risk-of-Parkinsons-Disease) (University of Guelph, 2019-03-29)
 
-* [Revealing the Hidden Relationship Inside Plant Cells.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Revealing-the-Hidden-Relationships-Inside-Plant-Cells) (University of Guelph, 22018-06-14)
+* [Revealing the Hidden Relationship Inside Plant Cells.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Revealing-the-Hidden-Relationships-Inside-Plant-Cells) (University of Guelph, 2018-06-14)
 
-* [New Possible Drug Targets Emerge for Drug-Resistant Tuberculosis.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/New-Possible-Drug-Targets-Emerge-for-Drug-Resistant-Tuberculosis) (University of Guelph, 22018-04-18)
+* [New Possible Drug Targets Emerge for Drug-Resistant Tuberculosis.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/New-Possible-Drug-Targets-Emerge-for-Drug-Resistant-Tuberculosis) (University of Guelph, 2018-04-18)
 
-* [“Junk” DNA Predicts Body Size in Seed Shrimp.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Junk-DNA-Predicts-Body-Size-in-Seed-Shrimp) (University of Guelph, 22018-01-10)
+* [“Junk” DNA Predicts Body Size in Seed Shrimp.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Junk-DNA-Predicts-Body-Size-in-Seed-Shrimp) (University of Guelph, 2018-01-10)
 
 ## Projects & Goals
 
