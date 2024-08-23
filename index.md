@@ -1,10 +1,3 @@
-## Focus
-
-* Molecular biology
-* Biochemistry
-* Biophysics
-* Microbiology
-
 ## Languages
 
 * English (fluent)
