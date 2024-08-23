@@ -1,10 +1,10 @@
-**Fields of Study:** Molecular biology, microbiology, biochemistry.
+**Fields of Study:** Molecular biology, biochemistry, biophysics, microbiology.
 
-**Languages:** English (fluent), Mandarin (intermediate)
+**Languages:** English (fluent), Mandarin (intermediate, HSK4-5)
 
-## Current Position
+## Experience
 
-Lab Manager & Research Technician, [Zhang Lab](https://www.thezhanglab.com/) (University of Guelph)
+* Lab Manager & Research Technician, [Zhang Lab](https://www.thezhanglab.com/) (University of Guelph)
 
 ## Education
 
