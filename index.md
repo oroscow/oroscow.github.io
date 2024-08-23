@@ -10,6 +10,46 @@
 * English (fluent)
 * Mandarin (intermediate, HSK4-5)
 
+## Skill Highlights
+   
+* Protein manipulation/analysis:
+   * Protein extraction
+   * Protein purification (FPLC & gravity columns)
+   * SDS-PAGE, gel/membrane staining, & Western Blotting
+   * ELISA, DSC, ITC, & SPR
+     
+* Phage display:
+   * Design & generation of libraries
+   * Selection experimental design
+   * Automated analysis of large phage display dataset
+   
+* DNA manipulation/analysis:
+   * Reverse transcription
+   * qPCR
+   * Site-directed mutagenesis
+   * Standard molecular cloning techniques
+   * Sanger sequencing
+
+* Cell culturing:
+   * Standard bacterial, mammalian, and fish cell culturing techniques
+   * Brightfield, phase contrast, & fluorescence microscopy
+
+* Computing:
+   * Automate arduous tasks through designing custom code (e.g., analysing phage display data)
+   * Mapping differential gene expression in large RNAseq datasets
+   * Molecular docking and structural prediction of proteins and potential binding partners
+   * Languages: Python, UNIX, R, LaTeX (open to learning more!)
+   * Programs: Microsoft Office Suite, GraphPad Prism, PyMol, SnapGene, & many instrument-specific programs
+
+* Lab management:
+   * Experimental design & project coordination
+   * Data collection, management, analysis, & preservation
+   * Protocol troubleshooting & optimization
+   * Ordering & reagent storage
+   * Grant/fund management
+   * Equipment maintenance/repair
+   * Designed custom labware through modelling and 3D printing
+
 ## Experience
 
 **1. Lab Manager & Research Technician**
@@ -31,7 +71,7 @@ _Science Communication & Research in Biological Education (SCRIBE), University o
 
    Thesis: Effects of Z-FA-FMK Drug Treatment on Aquatic Reoviral and Rhabdoviral Replication.
 
-### Research:
+## Research
 
 * Bodrug, T., Welsh, K., Bolhuis, D., Paulаkonis, E., Martinez-Chacin, R., Liu, B., Pinkin, N., Bonacci, T., Cui, L., Xu, P., _**Roscow O.**_, Amann, S., Grishkovskaya, I., Emanuele, M., Harrison, J., Steimel, J., Hahn, K., Zhang, W., Zhong, E., Haselbach, D., Brown, N. Time-resolved cryo-EM (TR-EM) analysis of substrate polyubiquitination by the RING E3 anaphase-promoting complex/cyclosome (APC/C). Nat. Struct. Mol. Biol. [doi](https://doi.org/10.1038/s41594-023-01105-5).
 
