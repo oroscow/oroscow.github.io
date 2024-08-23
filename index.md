@@ -27,7 +27,7 @@ _Science Communication & Research in Biological Education (SCRIBE), University o
 
    Thesis: Construction of a Full-Length Clone Based on _Grapevine rupestris stem pitting-associated virus_ strain Syrah and Development of Expression/VIGS Vectors for _Vitis vinifera_.
 
-**2. B.Sc. - Biology (Vancouver Island University)**
+**2. B.Sc. - Molecular Biology (Vancouver Island University)**
 
    Thesis: Effects of Z-FA-FMK Drug Treatment on Aquatic Reoviral and Rhabdoviral Replication.
 
