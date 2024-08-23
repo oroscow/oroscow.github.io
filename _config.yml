@@ -1,4 +1,12 @@
 theme: jekyll-theme-cayman
 title: Olivia Roscow
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+
+owner:
+  name: Olivia Roscow
+  bio: "This is a sample website."
+  email: spyrolivia@gmail.com
+  linkedin: Olivia Roscow
+  github: oroscow
+  orcid: 0000-0002-1753-6579
+  
