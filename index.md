@@ -1,9 +1,99 @@
----
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
----
+## Languages
+
+* English (fluent)
+* Mandarin (intermediate, HSK4-5)
+
+## Experience
+
+**1. Lab Manager & Research Technician**
+
+_[Zhang Lab](https://www.thezhanglab.com/) (University of Guelph), Dec 2019 - Aug 2024_
+
+**2. Science Writer & Communicator**
+
+_Science Communication & Research in Biological Education (SCRIBE), University of Guelph, Nov 2017 - Dec 2019_
+
+
+## Education
+
+**1. M.Sc. - Molecular and Cellular Biology (University of Guelph)**
+
+   Thesis: Construction of a Full-Length Clone Based on _Grapevine rupestris stem pitting-associated virus_ strain Syrah and Development of Expression/VIGS Vectors for _Vitis vinifera_.
+
+**2. B.Sc. - Molecular Biology (Vancouver Island University)**
+
+   Thesis: Effects of Z-FA-FMK Drug Treatment on Aquatic Reoviral and Rhabdoviral Replication.
+
+## Research
+
+* Bodrug, T., Welsh, K., Bolhuis, D., Paulаkonis, E., Martinez-Chacin, R., Liu, B., Pinkin, N., Bonacci, T., Cui, L., Xu, P., _**Roscow O.**_, Amann, S., Grishkovskaya, I., Emanuele, M., Harrison, J., Steimel, J., Hahn, K., Zhang, W., Zhong, E., Haselbach, D., Brown, N. Time-resolved cryo-EM (TR-EM) analysis of substrate polyubiquitination by the RING E3 anaphase-promoting complex/cyclosome (APC/C). Nat. Struct. Mol. Biol. [doi](https://doi.org/10.1038/s41594-023-01105-5).
+
+*	Liang, C., _**Roscow, O.**_, Zhang, W. Generation and Characterization of Engineered Ubiquitin Variants to Modulate the Ubiquitin Signaling Cascade. Cold Spring Harb. Protoc. 2023. [doi](https://cshprotocols.cshlp.org/content/early/2023/03/29/pdb.over107784.abstract).
+  
+*	Xiao, H., _**Roscow, O.**_, Hooker, J., Li, C., Maree, H.J., Meng, B. Concerning the Etiology of Syrah Decline: A Fresh Perspective on an Old and Complex Issue Facing the Global Grape and Wine Industry. Viruses 2023, 15, 23. [doi](https://doi.org/10.3390/v15010023).
+
+*	Liang, C., _**Roscow, O.**_, Zhang, W. Recent developments in engineering protein–protein interactions using phage display. Protein Eng. Des. Sel. 2021, 34, gzab014. [doi](https://doi.org/10.1093/protein/gzab014).
+
+* _**Roscow, O.**_, & Zhang, W. (2021) Using Phage Display to Develop Ubiquitin Variant Modulators for E3 Ligases. (2021). Journal of Visualized Experiments : JoVE, 174. [doi](https://doi.org/10.3791/62950).
+
+* Liu, Q., Aminu, B., _**Roscow, O.**_, & Zhang, W. (2021). Targeting the Ubiquitin Signaling Cascade in Tumor Microenvironment for Cancer Therapy. International Journal of Molecular Sciences, 22(2), 791. [doi](https://doi.org/10.3390/ijms22020791).
+
+* _**Roscow, O**_. (2019). Development of a Full-Length Infectious Clone of Grapevine rupestris stem pitting-associated virus strain Syrah and GFP-Tagged and VIGS Vectors for Vitis vinifera. [Thesis](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/17655).
+
+* _**Roscow, O.**_, Ganassin, R., Garver, K., & Polinski, M. (2018). Z-FA-FMK demonstrates differential inhibition of aquatic orthoreovirus (PRV), aquareovirus (CSRV), and rhabdovirus (IHNV) replication. Virus Research, 244, 194–198. [doi](https://doi.org/10.1016/j.virusres.2017.11.024).
+
+### Public Articles:
+
+* [Study Paves Way to Better Identify and Treat Important Pathogen.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Study_Paves_Way_to_Better_Identify_and_Treat_Important_Pathogen) (University of Guelph, 2019-07-25)
+
+* [Study Shows How Agrochemicals Can Increase Risk of Parkinson’s Disease.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Study-Shows-How-Agrochemicals-Can-Increase-Risk-of-Parkinsons-Disease) (University of Guelph, 2019-03-29)
+
+* [Revealing the Hidden Relationship Inside Plant Cells.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Revealing-the-Hidden-Relationships-Inside-Plant-Cells) (University of Guelph, 2018-06-14)
+
+* [New Possible Drug Targets Emerge for Drug-Resistant Tuberculosis.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/New-Possible-Drug-Targets-Emerge-for-Drug-Resistant-Tuberculosis) (University of Guelph, 2018-04-18)
+
+* [“Junk” DNA Predicts Body Size in Seed Shrimp.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Junk-DNA-Predicts-Body-Size-in-Seed-Shrimp) (University of Guelph, 2018-01-10)
+
+## Projects & Goals
+
+* Make a GUI-based program for analysing phage display data simply and quickly, with various library models and consensus variant  sequences (WIP, not updated on GitHub yet).
+
+## Skill Highlights
+   
+* Protein manipulation/analysis:
+   * Protein extraction
+   * Protein purification (FPLC & gravity columns)
+   * SDS-PAGE, gel/membrane staining, & Western Blotting
+   * ELISA, DSC, ITC, & SPR
+     
+* Phage display:
+   * Design & generation of libraries
+   * Selection experimental design
+   * Automated analysis of large phage display dataset
+   
+* DNA manipulation/analysis:
+   * Reverse transcription
+   * qPCR
+   * Site-directed mutagenesis
+   * Standard molecular cloning techniques
+   * Sanger sequencing
+
+* Cell culturing:
+   * Standard bacterial, mammalian, and fish cell culturing techniques
+   * Brightfield, phase contrast, & fluorescence microscopy
+
+* Computing:
+   * Automate arduous tasks through designing custom code (e.g., analysing phage display data)
+   * Mapping differential gene expression in large RNAseq datasets
+   * Molecular docking and structural prediction of proteins and potential binding partners
+   * Languages: Python, UNIX, R, LaTeX (open to learning more!)
+   * Programs: Microsoft Office Suite, GraphPad Prism, PyMol, SnapGene, & many instrument-specific programs
+
+* Lab management:
+   * Experimental design & project coordination
+   * Data collection, management, analysis, & preservation
+   * Protocol troubleshooting & optimization
+   * Ordering & reagent storage
+   * Grant/fund management
+   * Equipment maintenance/repair
+   * Designed custom labware through modelling and 3D printing
