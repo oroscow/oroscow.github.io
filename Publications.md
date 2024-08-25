@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Publications"
 permalink: /publications
+---
 
 * Bodrug, T., Welsh, K., Bolhuis, D., Paulаkonis, E., Martinez-Chacin, R., Liu, B., Pinkin, N., Bonacci, T., Cui, L., Xu, P., _**Roscow O.**_, Amann, S., Grishkovskaya, I., Emanuele, M., Harrison, J., Steimel, J., Hahn, K., Zhang, W., Zhong, E., Haselbach, D., Brown, N. Time-resolved cryo-EM (TR-EM) analysis of substrate polyubiquitination by the RING E3 anaphase-promoting complex/cyclosome (APC/C). Nat. Struct. Mol. Biol. [doi](https://doi.org/10.1038/s41594-023-01105-5).
 
