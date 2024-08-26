@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Research
+## **Research**
 
 * Bodrug, T., Welsh, K., Bolhuis, D., Paulаkonis, E., Martinez-Chacin, R., Liu, B., Pinkin, N., Bonacci, T., Cui, L., Xu, P., _**Roscow O.**_, Amann, S., Grishkovskaya, I., Emanuele, M., Harrison, J., Steimel, J., Hahn, K., Zhang, W., Zhong, E., Haselbach, D., Brown, N. Time-resolved cryo-EM (TR-EM) analysis of substrate polyubiquitination by the RING E3 anaphase-promoting complex/cyclosome (APC/C). Nat. Struct. Mol. Biol. [doi](https://doi.org/10.1038/s41594-023-01105-5).
 
@@ -22,7 +22,7 @@ permalink: /publications/
 
 * _**Roscow, O.**_, Ganassin, R., Garver, K., & Polinski, M. (2018). Z-FA-FMK demonstrates differential inhibition of aquatic orthoreovirus (PRV), aquareovirus (CSRV), and rhabdovirus (IHNV) replication. Virus Research, 244, 194–198. [doi](https://doi.org/10.1016/j.virusres.2017.11.024).
 
-### Public Articles:
+### **Public Articles:**
 
 * [Study Paves Way to Better Identify and Treat Important Pathogen.](https://www.uoguelph.ca/cbs/cbs-research/research-highlights/Study_Paves_Way_to_Better_Identify_and_Treat_Important_Pathogen) (University of Guelph, 2019-07-25)
 

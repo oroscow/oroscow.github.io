@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Skills
+title: Skills (Non-Exhaustive)
 permalink: /skills/
 ---
-
-## Skill Highlights
    
 * Protein manipulation/analysis:
    * Protein extraction
