@@ -1,5 +1,5 @@
 # Site settings
-title: "Olivia Roscow's Resume"
+title: "Olivia Roscow"
 description: "The resume of Olivia Roscow."
 
 # Build settings
@@ -23,7 +23,7 @@ resume_contact_address:         "111 Conroy Crescent, Guelph, Canada"
 resume_header_contact_info:     "111 Conroy Crescent, Guelph, Canada • (519) 731-3881 • spyrolivia@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Biochemistry, biophysics, and overall molecular biology enthusiast. I am currently looking for work as either a Research Technician or PhD candidate in a lab that specialises in these areas. Ultimately, my goal is to help like-minded researchers achieve their research goals.</p>"
+resume_header_intro: "<p>Biochemistry, biophysics, and overall molecular biology enthusiast currently looking for work as either a Research Technician or PhD candidate in a lab that specialises in these areas. Ultimately, my mission is to aid like-minded researchers in achieving their research goals.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

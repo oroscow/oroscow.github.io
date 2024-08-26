@@ -1,18 +1,20 @@
 # Skills
 - skill: DNA manipulation & analysis
-  description: 
+  description: PCR, reverse transcription, qPCR, site-directed mutagenesis, standard molecular cloning techniques, Sanger sequencing.
 
 - skill: Protein manipulation & analysis
-  description: 
+  description: Protein extraction and purification (via both FPLC & gravity columns), SDS-PAGE, gel/membrane staining, Western Blotting, binding techniques such as ELISA, DSC, ITC, & SPR.
 
 - skill: Phage display
-  description: 
+  description: Library design and generation, selection experimental design, automated analysis pipeline.
 
-- skill: Cell culturing
-  description: 
+- skill: Cell culturing & microbiology
+  description: Familiar with standard bacterial, mammalian, and fish cell culturing techniques, as well as Brightfield, phase contrast, and fluorescence microscopy.
 
 - skill: Computing
-  description: 
+  description:
+   - Languages: Python, UNIX, R, LaTeX (open to learning more!)
+   - Programs: Microsoft Office Suite, GraphPad Prism, PyMol, SnapGene, & many instrument-specific programs
 
-- skill: Management
-  description: 
+- skill: Management & Leadership
+  description: Experimental design & project coordination, data collection/management/analysis/preservation, protocol troubleshooting/optimization, ordering, reagent storage, grant/fund management, equipment maintenance/repair. Also designed custom labware through modelling and 3D printing.
