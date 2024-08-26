@@ -21,7 +21,7 @@ resume_contact_telephone:       "(519) 731-3881"
 resume_contact_address:         "111 Conroy Crescent, Guelph, Canada"
 
 resume_header_contact_info:     "111 Conroy Crescent, Guelph, Canada • (519) 731-3881 • spyrolivia@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Biochemistry, biophysics, and overall molecular biology enthusiast currently looking for work as either a Research Technician or PhD candidate in a lab that specialises in these areas. Ultimately, my mission is to aid like-minded researchers in achieving their research goals.</p>"
 
@@ -40,7 +40,7 @@ resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
-resume_section_interests:       true
+resume_section_interests:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
