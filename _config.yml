@@ -29,6 +29,8 @@ plugins:
 header_pages:
   - about.md
   - cv.md
+  - publications.md
+  - skills.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
