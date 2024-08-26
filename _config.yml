@@ -1,75 +1,63 @@
-title: Olivia Roscow
-author:
-  name: oroscow
-  email: spyrolivia@gmail.com
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Biochemist, biophysics, & molecular biology enthusiast.
+# Site settings
+title: "Olivia Roscow's Resume"
+description: "The resume of Olivia Roscow."
 
 # Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# If you clone the Minima repo and build locally, use this setting.
-theme: minima
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Olivia Roscow"
+resume_title:                   "Research Scientist"
 
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
-# add a line comment on "theme: minima" above.
-#remote_theme: jekyll/minima
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "spyrolivia@gmail.com"
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "(519) 731-3881"
+resume_contact_address:         "111 Conroy Crescent, Guelph, Canada"
 
-# Theme-specific settings
+resume_header_contact_info:     "111 Conroy Crescent, Guelph, Canada • (519) 731-3881 • spyrolivia@gmail.com"
+display_header_contact_info:    "false"
 
-# If you want to link only specific pages in your header, use this and add the path to the pages
-# in order as they should show up.
-header_pages:
-  - about.md
-  - cv.md
-  - publications.md
-  - skills.md
+resume_header_intro: "<p>Biochemistry, biophysics, and overall molecular biology enthusiast. I am currently looking for work as either a Research Technician or PhD candidate in a lab that specialises in these areas. Ultimately, my goal is to help like-minded researchers achieve their research goals.</p>"
 
-# Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
 
-# Minima specific settings, which are only available from Minima 3.0 onward.
-minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
-  
-  # Minima date format.
-  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #date_format: "%b-%d-%Y"
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:       true
 
-  # Generate social links in footer.
-  social_links:
-  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
-  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-  #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-   - { platform: github,         user_url: "https://github.com/oroscow" }
-  #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
-  # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
-  #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/oliviaroscow/" }
-  #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-  #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-  #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-  #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
-  #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/jglovier/resume-template"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
 
+# Design settings
+resume_theme:                   default
 
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
