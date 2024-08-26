@@ -127,12 +127,15 @@
         {% for skill in site.data.skills %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-                <p class="resume-item-copy" itemprop="description">
-        <ul class="resume-item-list">
-          {% for technique in skills.techniques %}
-          <li>{{ technique.technique }}</li>
-          {% endfor %}
-        </ul>
+          <p class="resume-item-copy" itemprop="description">
+            <!-- This paragraph tag seems unnecessary and has no closing tag -->
+            <!-- Consider removing it or adding content within it -->
+
+          <ul class="resume-item-list">
+            {% for technique in skill.techniques %}
+            <li>{{ technique }}</li>
+            {% endfor %}
+          </ul>
         </div>
         {% endfor %}
 
