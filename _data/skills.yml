@@ -1,19 +1,26 @@
 # Skills
 - skill: DNA manipulation & analysis
   techniques: 
-    - technique: PCR, reverse transcription, qPCR, site-directed mutagenesis, standard molecular cloning techniques, Sanger sequencing.
+    - technique: PCR, reverse transcription, qPCR
+    - technique: Site-directed mutagenesis, standard molecular cloning techniques
+    - technique: Sanger sequencing
 
 - skill: Protein manipulation & analysis
   techniques: 
-    - technique: Protein extraction and purification (via both FPLC & gravity columns), SDS-PAGE, gel/membrane staining, Western Blotting, binding techniques such as ELISA, DSC, ITC, & SPR.
+    - technique: Protein extraction and purification (via both FPLC & gravity columns)
+    - technique: SDS-PAGE, gel/membrane staining, Western Blotting
+    - technique: Protein-protein interaction techniques such as ELISA, DSC, ITC, & SPR
 
 - skill: Phage display
   techniques: 
-    - technique: Library design and generation, selection experimental design, automated analysis pipeline.
+    - technique: Library design and generation
+    - technique: Selection experimental design
+    - technique: Automated analysis pipeline
 
-- skill: Cell culturing & microbiology
+- skill: Cell culturing & microscopy
   techniques: 
-    - technique: Familiar with standard bacterial, mammalian, and fish cell culturing techniques, as well as Brightfield, phase contrast, and fluorescence microscopy.
+    - technique: Standard bacterial, mammalian, and fish cell culturing techniques
+    - technique: Brightfield, phase contrast, and fluorescence microscopy
 
 - skill: Computing
   techniques:
@@ -22,4 +29,8 @@
 
 - skill: Management & Leadership
   techniques: 
-    - technique: Experimental design & project coordination, data collection/management/analysis/preservation, protocol troubleshooting/optimization, ordering, reagent storage, grant/fund management, equipment maintenance/repair. Also designed custom labware through modelling and 3D printing.
+    - technique: Experimental design & project coordination
+    - technique: Data collection/management/analysis/preservation
+    - technique: Protocol troubleshooting/optimization
+    - technique: Ordering, reagent storage, grant/fund management, equipment maintenance/repair
+    - technique: Designed custom labware through modelling and 3D printing
