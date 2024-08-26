@@ -1,20 +1,25 @@
 # Skills
 - skill: DNA manipulation & analysis
-  description: PCR, reverse transcription, qPCR, site-directed mutagenesis, standard molecular cloning techniques, Sanger sequencing.
+  techniques: 
+    - technique: PCR, reverse transcription, qPCR, site-directed mutagenesis, standard molecular cloning techniques, Sanger sequencing.
 
 - skill: Protein manipulation & analysis
-  description: Protein extraction and purification (via both FPLC & gravity columns), SDS-PAGE, gel/membrane staining, Western Blotting, binding techniques such as ELISA, DSC, ITC, & SPR.
+  techniques: 
+    - technique: Protein extraction and purification (via both FPLC & gravity columns), SDS-PAGE, gel/membrane staining, Western Blotting, binding techniques such as ELISA, DSC, ITC, & SPR.
 
 - skill: Phage display
-  description: Library design and generation, selection experimental design, automated analysis pipeline.
+  techniques: 
+    - technique: Library design and generation, selection experimental design, automated analysis pipeline.
 
 - skill: Cell culturing & microbiology
-  description: Familiar with standard bacterial, mammalian, and fish cell culturing techniques, as well as Brightfield, phase contrast, and fluorescence microscopy.
+  techniques: 
+    - technique: Familiar with standard bacterial, mammalian, and fish cell culturing techniques, as well as Brightfield, phase contrast, and fluorescence microscopy.
 
 - skill: Computing
-  description: Languages &mdash; Python, Git, UNIX, R, LaTeX (interested in learning more)
-  
-  Programs &mdash; Microsoft Office Suite, GraphPad Prism, PyMol, SnapGene, & many instrument-specific programs
+  techniques:
+    - technique: Languages &mdash; Python, Git, UNIX, R, LaTeX (interested in learning more)
+    - technique: Programs &mdash; Microsoft Office Suite, GraphPad Prism, PyMol, SnapGene, & many instrument-specific programs
 
 - skill: Management & Leadership
-  description: Experimental design & project coordination, data collection/management/analysis/preservation, protocol troubleshooting/optimization, ordering, reagent storage, grant/fund management, equipment maintenance/repair. Also designed custom labware through modelling and 3D printing.
+  techniques: 
+    - technique: Experimental design & project coordination, data collection/management/analysis/preservation, protocol troubleshooting/optimization, ordering, reagent storage, grant/fund management, equipment maintenance/repair. Also designed custom labware through modelling and 3D printing.
