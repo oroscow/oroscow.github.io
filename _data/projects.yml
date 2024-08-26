@@ -3,5 +3,5 @@
 - project: Phage Display Analysis Suite (PDAS)
   role: Primary Developer
   duration: 2021 &mdash; Present
-  url: "https://github.com/oroscow/phageDisplayAnalysis"
+  url: "https://github.com/oroscow/phage_display_analysis_suite_pdas"
   description: PDAS is an work-in-progress open source Python program that facilitates quick analysis of large phage display datasets by smaller laboratories.
