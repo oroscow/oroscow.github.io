@@ -97,6 +97,32 @@
       {% endif %}
 
 
+
+
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for reference in site.data.publications %}
+            <li>{{ reference }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
+
+
+
+
+
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
@@ -127,10 +153,6 @@
         {% for skill in site.data.skills %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy" itemprop="description">
-            <!-- This paragraph tag seems unnecessary and has no closing tag -->
-            <!-- Consider removing it or adding content within it -->
-
           <ul class="resume-item-list">
             {% for technique in skill.techniques %}
             <li>{{ technique }}</li>
