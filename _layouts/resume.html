@@ -106,18 +106,16 @@
           <h2>Publications</h2>
         </header>
 
-        
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for reference in site.data.publications %}
-            <li>{{ publication.reference }}</li>
+            {% for pub in site.data.publications %}
+              <li>{{ pub.reference }}</li>
             {% endfor %}
           </ul>
         </div>
       </section>
       <!-- end Publications -->
-      {% endif %}
-
+    {% endif %}
 
 
 
