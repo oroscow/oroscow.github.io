@@ -48,6 +48,24 @@
 
       </header>
 
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+
+        {% for skill in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <ul class="resume-item-list">
+            {% for technique in skill.techniques %}
+            <li>{{ technique }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
@@ -92,34 +110,28 @@
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
-      </section>
-      <!-- end Education -->
+
+        </section>
+        <!-- end Education -->
+        {% endif %}
+
+        {% if site.resume_section_publications %}
+        <!-- begin Publications -->
+        <section class="content-section">
+          <header class="section-header">
+            <h2>Publications</h2>
+          </header>
+
+          <div class="resume-item">
+            <ul class="resume-item-list">
+              {% for pub in site.data.publications %}
+                <li>{{ pub.reference }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </section>
+        <!-- end Publications -->
       {% endif %}
-
-
-
-
-      {% if site.resume_section_publications %}
-      <!-- begin Publications -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Publications</h2>
-        </header>
-
-        <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for pub in site.data.publications %}
-              <li>{{ pub.reference }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      <!-- end Publications -->
-    {% endif %}
-
-
-
-
 
 
       {% if site.resume_section_projects %}
@@ -141,24 +153,6 @@
       </section>
       <!-- end Projects -->
       {% endif %}
-
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <ul class="resume-item-list">
-            {% for technique in skill.techniques %}
-            <li>{{ technique }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endfor %}
 
       </section>
       <!-- end Skills -->
